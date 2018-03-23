@@ -21,4 +21,5 @@ Firebase Analytics plugin for Flutter.
    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/GoogleSignIn',
    'OTHER_LDFLAGS' => '$(inherited) -undefined dynamic_lookup'
   }
+  s.static_framework = true
 end
